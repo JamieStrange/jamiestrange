@@ -1,0 +1,3 @@
+date,species,count
+2015-3-17,Bombus huntii,6
+2015-3-17,Bombus bifarius,3
